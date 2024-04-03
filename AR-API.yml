@@ -1,1 +1,3 @@
 apiUrl: http://localhost:8080/getstate
+eligibleState: Rohde Island
+plainCreds: root:root@123
