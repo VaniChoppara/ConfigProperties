@@ -1,1 +1,1 @@
-apiUrl: "http://localhost:8080/getstate"
+apiUrl: http://localhost:8080/getstate
