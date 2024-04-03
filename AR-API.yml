@@ -12,8 +12,6 @@ spring:
     admin:
       client:
         url: http://localhost:1111/
-  config:
-    import: optional:configserver:http://localhost:2222
     
   datasource:
     userName: root
