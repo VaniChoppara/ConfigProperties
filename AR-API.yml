@@ -6,8 +6,6 @@ server:
   port : 8083
 
 spring:
-  application:
-    name: AR-API
   boot:
     admin:
       client:
